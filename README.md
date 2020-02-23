@@ -3,7 +3,10 @@ Starter project using babylonjs, webpack, and typescript.
 
 ### Steps to Run Starter Project
 
-`cd babylonjs-webpack-typescript-starter-project`
+Git clone <br>
+`https://github.com/mostofashakib/Web-VR-Babylon.JS-StarterPack.git`
+
+`cd Web-VR-Babylon.JS-StarterPack`
 
 Install packages <br>
 `npm install`
