@@ -1,2 +1,18 @@
-# Web-VR-Babylon.JS-StarterPack
-This is a repository for Babylon.JS TypeScript starter pack. Babylon.JS is a JavaScript library that allows real time 3D engine in a web browser via HTML5.
+# WebVR Babylonjs Webpack TypeScript Starter Project
+Starter project using babylonjs, webpack, and typescript.
+
+### Steps to Run Starter Project
+
+`cd babylonjs-webpack-typescript-starter-project`
+
+Install packages <br>
+`npm install`
+
+Build Project <br>
+`npm run build`
+
+Run the project <br>
+`npm start`
+
+Open in VS Code <br>
+`code .`
